@@ -2,6 +2,6 @@
 <resources>
     <!-- Packages LSPosed should offer to scope this module to. -->
     <string-array name="xposed_scope">
-        <item>com.Leiting.Fleet</item>
+        <item>com.turner.ttgfigures</item>
     </string-array>
 </resources>
